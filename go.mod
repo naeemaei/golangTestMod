@@ -1,3 +1,3 @@
-module github.com/naeemaei/test
+module github.com/naeemaei/golangTestMod
 
 go 1.18
